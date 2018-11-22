@@ -1,0 +1,6 @@
+for y in {1997..2018}
+do 
+	echo $y"-english-one"
+	mkdir $y"-english-one"
+done
+	
