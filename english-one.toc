@@ -1,10 +1,114 @@
-\contentsline {section}{\numberline {}2003年全真试题}{2}{section.1}
-\contentsline {subsection}{\numberline {}Text 1 Syies Like Us}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {}Text 2 Animal Rights:Reaching the Public}{3}{subsection.1.2}
-\contentsline {subsection}{\numberline {}Text 3 铁路公司合并可能造成垄断}{5}{subsection.1.3}
-\contentsline {subsection}{\numberline {}Text 4 The Best Health Care Only So Far}{7}{subsection.1.4}
-\contentsline {section}{\numberline {}2002年全真试题}{9}{section.2}
-\contentsline {subsection}{\numberline {}Text1 Use Humor Effectively}{9}{subsection.2.1}
-\contentsline {subsection}{\numberline {}Text2 Hope:Reunification of Mankind}{10}{subsection.2.2}
-\contentsline {subsection}{\numberline {}Text3 Oil Pleasant Surprise}{12}{subsection.2.3}
-\contentsline {subsection}{\numberline {}Text4 医助自杀之争}{13}{subsection.2.4}
+\contentsline {section}{\numberline {}2018}{5}{section.1}
+\contentsline {subsection}{\numberline {}Text 1}{5}{subsection.1.1}
+\contentsline {subsection}{\numberline {}Text 2}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {}Text 3}{8}{subsection.1.3}
+\contentsline {subsection}{\numberline {}Text 4}{9}{subsection.1.4}
+\contentsline {section}{\numberline {}2017}{11}{section.2}
+\contentsline {subsection}{\numberline {}Text 1}{11}{subsection.2.1}
+\contentsline {subsection}{\numberline {}Text 2}{12}{subsection.2.2}
+\contentsline {subsection}{\numberline {}Text 3}{14}{subsection.2.3}
+\contentsline {subsection}{\numberline {}Text 4}{15}{subsection.2.4}
+\contentsline {section}{\numberline {}2016}{17}{section.3}
+\contentsline {subsection}{\numberline {}Text 1}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {}Text 2}{18}{subsection.3.2}
+\contentsline {subsection}{\numberline {}Text 3}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {}Text 4}{21}{subsection.3.4}
+\contentsline {section}{\numberline {}2015}{23}{section.4}
+\contentsline {subsection}{\numberline {}Text 1}{23}{subsection.4.1}
+\contentsline {subsection}{\numberline {}Text 2}{24}{subsection.4.2}
+\contentsline {subsection}{\numberline {}Text 3}{26}{subsection.4.3}
+\contentsline {subsection}{\numberline {}Text 4}{27}{subsection.4.4}
+\contentsline {section}{\numberline {}2014}{29}{section.5}
+\contentsline {subsection}{\numberline {}Text 1}{29}{subsection.5.1}
+\contentsline {subsection}{\numberline {}Text 2}{31}{subsection.5.2}
+\contentsline {subsection}{\numberline {}Text 3}{32}{subsection.5.3}
+\contentsline {subsection}{\numberline {}Text 4}{34}{subsection.5.4}
+\contentsline {section}{\numberline {}2013}{35}{section.6}
+\contentsline {subsection}{\numberline {}Text 1}{35}{subsection.6.1}
+\contentsline {subsection}{\numberline {}Text 2}{37}{subsection.6.2}
+\contentsline {subsection}{\numberline {}Text 3}{38}{subsection.6.3}
+\contentsline {subsection}{\numberline {}Text 4}{40}{subsection.6.4}
+\contentsline {section}{\numberline {}2012}{41}{section.7}
+\contentsline {subsection}{\numberline {}Text 1}{41}{subsection.7.1}
+\contentsline {subsection}{\numberline {}Text 2}{43}{subsection.7.2}
+\contentsline {subsection}{\numberline {}Text 3}{45}{subsection.7.3}
+\contentsline {subsection}{\numberline {}Text 4}{46}{subsection.7.4}
+\contentsline {section}{\numberline {}2011}{48}{section.8}
+\contentsline {subsection}{\numberline {}Text 1}{48}{subsection.8.1}
+\contentsline {subsection}{\numberline {}Text 2}{49}{subsection.8.2}
+\contentsline {subsection}{\numberline {}Text 3}{51}{subsection.8.3}
+\contentsline {subsection}{\numberline {}Text 4}{52}{subsection.8.4}
+\contentsline {section}{\numberline {}2010}{54}{section.9}
+\contentsline {subsection}{\numberline {}Text 1}{54}{subsection.9.1}
+\contentsline {subsection}{\numberline {}Text 2}{55}{subsection.9.2}
+\contentsline {subsection}{\numberline {}Text 3}{57}{subsection.9.3}
+\contentsline {subsection}{\numberline {}Text 4}{58}{subsection.9.4}
+\contentsline {section}{\numberline {}2009}{60}{section.10}
+\contentsline {subsection}{\numberline {}Text 1}{60}{subsection.10.1}
+\contentsline {subsection}{\numberline {}Text 2}{61}{subsection.10.2}
+\contentsline {subsection}{\numberline {}Text 3}{63}{subsection.10.3}
+\contentsline {subsection}{\numberline {}Text 4}{64}{subsection.10.4}
+\contentsline {section}{\numberline {}2008}{66}{section.11}
+\contentsline {subsection}{\numberline {}Text 1}{66}{subsection.11.1}
+\contentsline {subsection}{\numberline {}Text 2}{67}{subsection.11.2}
+\contentsline {subsection}{\numberline {}Text 3}{69}{subsection.11.3}
+\contentsline {subsection}{\numberline {}Text 4}{70}{subsection.11.4}
+\contentsline {section}{\numberline {}2007}{72}{section.12}
+\contentsline {subsection}{\numberline {}Text 1}{72}{subsection.12.1}
+\contentsline {subsection}{\numberline {}Text 2}{73}{subsection.12.2}
+\contentsline {subsection}{\numberline {}Text 3}{75}{subsection.12.3}
+\contentsline {subsection}{\numberline {}Text 4}{76}{subsection.12.4}
+\contentsline {section}{\numberline {}2006}{78}{section.13}
+\contentsline {subsection}{\numberline {}Text 1}{78}{subsection.13.1}
+\contentsline {subsection}{\numberline {}Text 2}{79}{subsection.13.2}
+\contentsline {subsection}{\numberline {}Text 3}{81}{subsection.13.3}
+\contentsline {subsection}{\numberline {}Text 4}{82}{subsection.13.4}
+\contentsline {section}{\numberline {}2005}{84}{section.14}
+\contentsline {subsection}{\numberline {}Text 1}{84}{subsection.14.1}
+\contentsline {subsection}{\numberline {}Text 2}{85}{subsection.14.2}
+\contentsline {subsection}{\numberline {}Text 3}{87}{subsection.14.3}
+\contentsline {subsection}{\numberline {}Text 4}{88}{subsection.14.4}
+\contentsline {section}{\numberline {}2004}{90}{section.15}
+\contentsline {subsection}{\numberline {}Text 2}{91}{subsection.15.1}
+\contentsline {subsection}{\numberline {}Text 3}{93}{subsection.15.2}
+\contentsline {subsection}{\numberline {}Text 4}{94}{subsection.15.3}
+\contentsline {section}{\numberline {}2003年全真试题}{96}{section.16}
+\contentsline {subsection}{\numberline {}Text 1 Syies Like Us}{96}{subsection.16.1}
+\contentsline {subsection}{\numberline {}Text 2 Animal Rights:Reaching the Public}{98}{subsection.16.2}
+\contentsline {subsection}{\numberline {}Text 3 铁路公司合并可能造成垄断}{99}{subsection.16.3}
+\contentsline {subsection}{\numberline {}Text 4 The Best Health Care Only So Far}{101}{subsection.16.4}
+\contentsline {section}{\numberline {}2002年全真试题}{103}{section.17}
+\contentsline {subsection}{\numberline {}Text1 Use Humor Effectively}{103}{subsection.17.1}
+\contentsline {subsection}{\numberline {}Text2 Hope:Reunification of Mankind}{105}{subsection.17.2}
+\contentsline {subsection}{\numberline {}Text3 Oil Pleasant Surprise}{106}{subsection.17.3}
+\contentsline {subsection}{\numberline {}Text4 医助自杀之争}{108}{subsection.17.4}
+\contentsline {section}{\numberline {}2001年全真试题}{110}{section.18}
+\contentsline {subsection}{\numberline {}Text 1 科学发展的职业化与专业化}{110}{subsection.18.1}
+\contentsline {subsection}{\numberline {}Text 2 Can we end world poverty?}{111}{subsection.18.2}
+\contentsline {subsection}{\numberline {}Text 3 美国报业遭受不信任危机}{113}{subsection.18.3}
+\contentsline {subsection}{\numberline {}Text 4}{114}{subsection.18.4}
+\contentsline {subsection}{\numberline {}Text 5}{115}{subsection.18.5}
+\contentsline {section}{\numberline {}2000}{117}{section.19}
+\contentsline {subsection}{\numberline {}Text 1}{117}{subsection.19.1}
+\contentsline {subsection}{\numberline {}Text 2}{118}{subsection.19.2}
+\contentsline {subsection}{\numberline {}Text 3}{119}{subsection.19.3}
+\contentsline {subsection}{\numberline {}Text 4}{120}{subsection.19.4}
+\contentsline {subsection}{\numberline {}Text 5}{122}{subsection.19.5}
+\contentsline {section}{\numberline {}1999}{123}{section.20}
+\contentsline {subsection}{\numberline {}Text 1}{123}{subsection.20.1}
+\contentsline {subsection}{\numberline {}Text 2}{125}{subsection.20.2}
+\contentsline {subsection}{\numberline {}Text 3}{126}{subsection.20.3}
+\contentsline {subsection}{\numberline {}Text 4}{127}{subsection.20.4}
+\contentsline {subsection}{\numberline {}Text 5}{129}{subsection.20.5}
+\contentsline {section}{\numberline {}1998}{130}{section.21}
+\contentsline {subsection}{\numberline {}Text 1}{130}{subsection.21.1}
+\contentsline {subsection}{\numberline {}Text 2}{132}{subsection.21.2}
+\contentsline {subsection}{\numberline {}Text 3}{133}{subsection.21.3}
+\contentsline {subsection}{\numberline {}Text 4}{134}{subsection.21.4}
+\contentsline {subsection}{\numberline {}Text 5}{135}{subsection.21.5}
+\contentsline {section}{\numberline {}1997}{137}{section.22}
+\contentsline {subsection}{\numberline {}Text 1}{137}{subsection.22.1}
+\contentsline {subsection}{\numberline {}Text 2}{138}{subsection.22.2}
+\contentsline {subsection}{\numberline {}Text 3}{139}{subsection.22.3}
+\contentsline {subsection}{\numberline {}Text 4}{141}{subsection.22.4}
+\contentsline {subsection}{\numberline {}Text 5}{142}{subsection.22.5}
