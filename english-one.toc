@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {}2003年全真试题}{2}{section.1}
+\contentsline {subsection}{\numberline {}Text 1 Syies Like Us}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {}Text 2 Animal Rights:Reaching the Public}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {}Text 3 铁路公司合并可能造成垄断}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {}Text 4 The Best Health Care Only So Far}{7}{subsection.1.4}
+\contentsline {section}{\numberline {}2002年全真试题}{9}{section.2}
+\contentsline {subsection}{\numberline {}Text1 Use Humor Effectively}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {}Text2 Hope:Reunification of Mankind}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {}Text3 Oil Pleasant Surprise}{12}{subsection.2.3}
+\contentsline {subsection}{\numberline {}Text4 医助自杀之争}{13}{subsection.2.4}
